@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	  margin: 80px;
+	  margin-top: 50px;
+	  width: 40%;
+}
+	
+body {background-image:url("../../clouds.jpeg")
+}
+
+
+
+
+h1 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	
+	font-size: 30pt;
+	color:chocolate;
+	
+}
+h2 {font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20pt;
+	font-weight:600;
+	color:saddlebrown;
+}
+h3 {font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 13pt;
+	font-weight:400;
+	color:saddlebrown;
+
+
+}
+a { color:chocolate;
+}
+li {padding-bottom: 30px;
+	color:chocolate;
+}
+p {font-size: 15pt;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:peru;
+
+}
