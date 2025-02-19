@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color:gainsboro;
+	font-size: 100%;
+	line-height: 1.6em;
+	font-family: Georgia, "serif";
+}
+
+article{
+	width: 80%;
+	margin: 0 auto;
+} 
+
+h1 {
+	color:darkred;
+	font-size: 2.8em;
+	line-height: 1.3em;
+	font-family: "Kanit", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+h2 {
+	font-size: 1.2em;
+	font-family: "Kanit", serif;
+    font-weight: 600;
+    font-style: normal;
+	color:darkslategrey;
+}
+p { 
+	font-size: 1.2em;
+	font-family: "Kanit", serif;
+    font-weight: 400;
+    font-style: normal;
+	color:olive;
+
+}
+
+
+dt{
+	padding-bottom: 10px;
+	font-size: 1.5em;
+  	font-optical-sizing: auto;
+	font-family: "Kanit", serif;
+    font-weight: 600;
+    font-style: normal;
+	color:darkslategrey;
+}
+
+dd{
+	margin-left:0;
+	font-size: 1.2em;
+	font-family: "Kanit", serif;
+    font-weight: 600;
+    font-style: normal;
+	color:darkolivegreen;
+}
+
+.author{
+	font-size: 1em;
+	color:saddlebrown;
+}
+
+.date {
+	color:saddlebrown;
+}
+
+.summary {
+	font-family: "Kanit", serif;
+    font-weight: 600;
+    font-style: normal;
+}
